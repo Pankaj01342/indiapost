@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/indiapost/static/css/main.9e063ac9.chunk.css",
+    "main.css": "/indiapost/static/css/main.d59f4caa.chunk.css",
     "main.js": "/indiapost/static/js/main.ce4b78de.chunk.js",
     "main.js.map": "/indiapost/static/js/main.ce4b78de.chunk.js.map",
     "runtime-main.js": "/indiapost/static/js/runtime-main.b0cdc6cf.js",
@@ -10,13 +10,13 @@
     "static/js/3.e8b4b851.chunk.js": "/indiapost/static/js/3.e8b4b851.chunk.js",
     "static/js/3.e8b4b851.chunk.js.map": "/indiapost/static/js/3.e8b4b851.chunk.js.map",
     "index.html": "/indiapost/index.html",
-    "static/css/main.9e063ac9.chunk.css.map": "/indiapost/static/css/main.9e063ac9.chunk.css.map",
+    "static/css/main.d59f4caa.chunk.css.map": "/indiapost/static/css/main.d59f4caa.chunk.css.map",
     "static/js/2.4b556d45.chunk.js.LICENSE.txt": "/indiapost/static/js/2.4b556d45.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
     "static/js/runtime-main.b0cdc6cf.js",
     "static/js/2.4b556d45.chunk.js",
-    "static/css/main.9e063ac9.chunk.css",
+    "static/css/main.d59f4caa.chunk.css",
     "static/js/main.ce4b78de.chunk.js"
   ]
 }
